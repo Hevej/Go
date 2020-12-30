@@ -23,7 +23,7 @@ func main() {
 	fmt.Println(sum(xs...))*/
 
 	var conjuntoNumeros string
-	fmt.Println("Escriba los numeros separados por comas")
+	fmt.Println("Escriba los numeros separados por espacios")
 	//Se crea el scanner para escuchar un stream
 	scanner := bufio.NewScanner(os.Stdin)
 	//Se lee el stream
