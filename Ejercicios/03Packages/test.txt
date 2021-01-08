@@ -1,0 +1,2 @@
+Prueba de lectura en Go
+Probando la lectura y escritura
