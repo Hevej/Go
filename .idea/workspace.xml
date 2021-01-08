@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.1">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/01Map/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/01Functions/01Map/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/02Function/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/01Functions/02Function/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/03Clousure/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/01Functions/03Clousure/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/04Defer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/01Functions/04Defer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/06Pointers-New/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/01Functions/06Pointers-New/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/06Pointers/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/01Functions/06Pointers/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/01Suma/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/01Suma/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/02Mitad-Par-Impar/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/02Mitad-Par-Impar/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/03NumeroGrande/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/03NumeroGrande/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/04OddGenerator/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/04OddGenerator/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/05SwapIntegers/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/05SwapIntegers/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/02Structs&amp;Interfaces/01Struct/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/02Structs&amp;Interfaces/01Struct/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicios/02Structs&amp;Interfaces/02EmbeddedTypes/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios/02Structs&amp;Interfaces/02EmbeddedTypes/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,58 +61,59 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\02Structs&amp;Interfaces\01Struct2" />
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01Functions\Ejercicios\04OddGenerator" />
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01ControlStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (3)">
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build Container.go">
+    <configuration name="go build Container.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/05SwapIntegers/main.go" />
+      <filePath value="$PROJECT_DIR$/Ejercicios/03Packages/Container.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build ContentsDirectory.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Ejercicios/02Structs&amp;Interfaces/01Struct/main.go" />
+      <filePath value="$PROJECT_DIR$/Ejercicios/03Packages/ContentsDirectory.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build CreateFile.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Ejercicios/02Structs&amp;Interfaces/02EmbeddedTypes/main.go" />
+      <filePath value="$PROJECT_DIR$/Ejercicios/03Packages/CreateFile.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build Errors.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/03NumeroGrande/main.go" />
+      <filePath value="$PROJECT_DIR$/Ejercicios/03Packages/Errors.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build WalkAFolder.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/04OddGenerator/main.go" />
+      <filePath value="$PROJECT_DIR$/Ejercicios/03Packages/WalkAFolder.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go (3)" />
-        <item itemvalue="Go Build.go build main.go (2)" />
-        <item itemvalue="Go Build.go build main.go (1)" />
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build main.go (5)" />
+        <item itemvalue="Go Build.go build Container.go" />
+        <item itemvalue="Go Build.go build Errors.go" />
+        <item itemvalue="Go Build.go build WalkAFolder.go" />
+        <item itemvalue="Go Build.go build ContentsDirectory.go" />
+        <item itemvalue="Go Build.go build CreateFile.go" />
       </list>
     </recent_temporary>
   </component>

@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func one(xPtr *int)  {
+func one(xPtr *int) {
 	*xPtr = 1
 }
 

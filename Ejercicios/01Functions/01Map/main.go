@@ -2,55 +2,55 @@ package main
 
 import "fmt"
 
-func main()  {
+func main() {
 	elements := map[string]map[string]string{
 		"H": {
-			"name":"Hydrogen",
-			"state":"gas",
+			"name":  "Hydrogen",
+			"state": "gas",
 		},
 		"He": {
-			"name":"Helium",
-			"state":"gas",
+			"name":  "Helium",
+			"state": "gas",
 		},
 		"Li": {
-			"name":"Lithium",
-			"state":"solid",
+			"name":  "Lithium",
+			"state": "solid",
 		},
 		"Be": {
-			"name":"Beryllium",
-			"state":"solid",
+			"name":  "Beryllium",
+			"state": "solid",
 		},
 		"B": {
-			"name":"Boron",
-			"state":"solid",
+			"name":  "Boron",
+			"state": "solid",
 		},
 		"C": {
-			"name":"Carbon",
-			"state":"solid",
+			"name":  "Carbon",
+			"state": "solid",
 		},
 		"N": {
-			"name":"Nitrogen",
-			"state":"gas",
+			"name":  "Nitrogen",
+			"state": "gas",
 		},
 		"O": {
-			"name":"Oxygen",
-			"state":"gas",
+			"name":  "Oxygen",
+			"state": "gas",
 		},
 		"F": {
-			"name":"Fluorine",
-			"state":"gas",
+			"name":  "Fluorine",
+			"state": "gas",
 		},
 		"Ne": {
-			"name":"Neon",
-			"state":"gas",
+			"name":  "Neon",
+			"state": "gas",
 		},
 	}
 
-	if el, ok:=elements["Li"]; ok{
-		fmt.Println(el["name"],el["state"])
+	if el, ok := elements["Li"]; ok {
+		fmt.Println(el["name"], el["state"])
 	}
 
-	for k,v := range elements{
+	for k, v := range elements {
 		fmt.Println(k, "value is", v)
 	}
 

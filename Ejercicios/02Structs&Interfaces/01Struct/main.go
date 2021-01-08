@@ -35,18 +35,18 @@ func distance(x1, y1, x2, y2 float64) float64 {
 }
 
 func (c *Circle) area() float64 {
-	return math.Pi*c.r*c.r
+	return math.Pi * c.r * c.r
 }
 
 func (r *Rectangle) area() float64 {
 	l := distance(r.x1, r.y1, r.x1, r.y2)
 	w := distance(r.x1, r.y1, r.x2, r.y1)
-	return l*w
+	return l * w
 }
 
 //Aca no necesitamos el operador &, Go ya lo sabe
 func main() {
-	c := Circle{0,0,5}
+	c := Circle{0, 0, 5}
 	r := Rectangle{0, 0, 10, 10}
 	fmt.Println(c.area())
 	fmt.Println(r.area())

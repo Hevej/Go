@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-func makeEvenGenerator() func() uint{
-	i:=uint(0)
+func makeEvenGenerator() func() uint {
+	i := uint(0)
 	return func() (ret uint) {
 		ret = i
 		i += 2
