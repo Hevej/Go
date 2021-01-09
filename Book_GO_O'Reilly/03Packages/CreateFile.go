@@ -3,7 +3,7 @@ package main
 import "os"
 
 func main() {
-	file, err := os.Create("Ejercicios/03Packages/new.txt")
+	file, err := os.Create("Book_GO_O'Reilly/03Packages/new.txt")
 	if err != nil {
 		panic(err)
 	}

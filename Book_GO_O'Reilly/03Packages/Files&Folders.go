@@ -7,7 +7,7 @@ import (
 
 func main() {
 	/*
-		file, err := os.Open("Ejercicios/03Packages/test.txt")
+		file, err := os.Open("Book_GO_O'Reilly/03Packages/test.txt")
 		if err != nil {
 			//handle the error
 			return
@@ -30,7 +30,7 @@ func main() {
 		str := string(bs)
 		fmt.Println(str)
 	*/
-	bs, err := ioutil.ReadFile("Ejercicios/03Packages/test.txt")
+	bs, err := ioutil.ReadFile("Book_GO_O'Reilly/03Packages/test.txt")
 	if err != nil {
 		panic(err)
 	}
