@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.2.2">
-      <change afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/02Structs&amp;Interfaces/01Struct/Celsius.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/03Packages/Sort.go" afterDir="false" />
+    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.2.3">
+      <change afterPath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/stdOUT.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/01Map/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/01Map/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/02Function-Variadic/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/02Function-Variadic/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/02Function/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/02Function/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/03Clousure/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/03Clousure/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/04Defer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/04Defer/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/05Panic&amp;Return/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/05Panic&amp;Return/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/06Pointers-New/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/06Pointers-New/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/06Pointers/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/06Pointers/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/01Suma/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/Ejercicios/01Suma/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/02Mitad-Par-Impar/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/Ejercicios/02Mitad-Par-Impar/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/03NumeroGrande/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/Ejercicios/03NumeroGrande/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/04OddGenerator/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/Ejercicios/04OddGenerator/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/01Functions/Ejercicios/05SwapIntegers/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/01Functions/Ejercicios/05SwapIntegers/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/02Structs&amp;Interfaces/01Struct/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/02Structs&amp;Interfaces/01Struct/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/02Structs&amp;Interfaces/01Struct2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/02Structs&amp;Interfaces/01Struct2/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/02Structs&amp;Interfaces/02EmbeddedTypes/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/02Structs&amp;Interfaces/02EmbeddedTypes/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/02Structs&amp;Interfaces/03Interfaces/interfaces1.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/02Structs&amp;Interfaces/03Interfaces/interfaces1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/03Packages/Container.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/03Packages/Container.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/03Packages/ContentsDirectory.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/03Packages/ContentsDirectory.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/03Packages/CreateFile.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/03Packages/CreateFile.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/03Packages/Errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/03Packages/Errors.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/03Packages/Files&amp;Folders.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/03Packages/Files&amp;Folders.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/03Packages/StringsInGo.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/03Packages/StringsInGo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/03Packages/WalkAFolder.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/03Packages/WalkAFolder.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/03Packages/new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/03Packages/new.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/03Packages/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/03Packages/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicios/Prueba/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_GO_O'Reilly/Prueba/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/ReadingSIO/cla.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/cla.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/ReadingSIO/stdIN.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/stdIN.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/ReadingSIO/stdOUT.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/REST_API/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +26,9 @@
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/stdOUT.go" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1mJTs1fxm5UV25EXM3s25TF9QSd" />
   <component name="ProjectLevelVcsManager">
@@ -82,28 +61,12 @@
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01ControlStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build cla.go">
-    <configuration name="go build CryptographicSHA1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build BinarySearch.go">
+    <configuration name="go build BinarySearch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Ejercicios/03Packages/CryptographicSHA1.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build HTTP.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_GO_O'Reilly/03Packages/Servers/HTTP.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build TCP.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Ejercicios/03Packages/Servers/TCP.go" />
+      <filePath value="$PROJECT_DIR$/Grokking_Algorithms/Introduction/BinarySearch.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -112,6 +75,22 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/Book_MasteringGo/ReadingSIO/cla.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build log.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03Logs/log.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build newError.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/Errors/newError.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -125,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build BinarySearch.go" />
+        <item itemvalue="Go Build.go build log.go" />
+        <item itemvalue="Go Build.go build newError.go" />
         <item itemvalue="Go Build.go build cla.go" />
         <item itemvalue="Go Build.go build stdIN.go" />
-        <item itemvalue="Go Build.go build HTTP.go" />
-        <item itemvalue="Go Build.go build TCP.go" />
-        <item itemvalue="Go Build.go build CryptographicSHA1.go" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +133,7 @@
     <MESSAGE value="0.2" />
     <MESSAGE value="0.2.1" />
     <MESSAGE value="0.2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.2.2" />
+    <MESSAGE value="0.2.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.2.3" />
   </component>
 </project>

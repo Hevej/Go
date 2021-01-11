@@ -1,0 +1,2 @@
+2021/01/09 16:51:37 log.go:18: This is my log message
+2021/01/09 16:51:55 log.go:18: This is my log message

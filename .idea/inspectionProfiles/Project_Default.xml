@@ -11,6 +11,7 @@
         <function importPath="fmt" name="Scanln" />
         <function importPath="io" name="WriteString" />
         <function importPath="net/http" name="ListenAndServe" />
+        <function importPath="fmt" name="Scanf" />
       </functions>
       <methods>
         <method importPath="hash" receiver="Hash" name="Write" />
