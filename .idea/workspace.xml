@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.2.3">
-      <change afterPath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/stdOUT.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.2.4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/ReadingSIO/cla.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/cla.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/ReadingSIO/stdIN.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/stdIN.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/ReadingSIO/stdOUT.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/REST_API/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,54 +55,54 @@
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01ControlStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build BinarySearch.go">
-    <configuration name="go build BinarySearch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build logDefer.go">
+    <configuration name="go build defer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Grokking_Algorithms/Introduction/BinarySearch.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/07Defer/defer.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build cla.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build logDefer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/ReadingSIO/cla.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/07Defer/logDefer.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build log.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build mapSplit.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03Logs/log.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/05Maps&amp;Slices/mapSplit.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build newError.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build moreUnsafe.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/Errors/newError.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/Safe &amp; Unsafe Code/moreUnsafe.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build stdIN.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build unsafe.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/ReadingSIO/stdIN.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/Safe &amp; Unsafe Code/unsafe.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build BinarySearch.go" />
-        <item itemvalue="Go Build.go build log.go" />
-        <item itemvalue="Go Build.go build newError.go" />
-        <item itemvalue="Go Build.go build cla.go" />
-        <item itemvalue="Go Build.go build stdIN.go" />
+        <item itemvalue="Go Build.go build logDefer.go" />
+        <item itemvalue="Go Build.go build defer.go" />
+        <item itemvalue="Go Build.go build moreUnsafe.go" />
+        <item itemvalue="Go Build.go build unsafe.go" />
+        <item itemvalue="Go Build.go build mapSplit.go" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +128,7 @@
     <MESSAGE value="0.2.1" />
     <MESSAGE value="0.2.2" />
     <MESSAGE value="0.2.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.2.3" />
+    <MESSAGE value="0.2.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.2.4" />
   </component>
 </project>
