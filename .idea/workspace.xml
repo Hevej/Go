@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.2.4">
+    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.2.5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/07Defer/tmp/mGo.log" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/07Defer/tmp/mGo.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,7 @@
       <list>
         <option value="Go File" />
         <option value="Go Application" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -34,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -55,12 +58,20 @@
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01ControlStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build logDefer.go">
-    <configuration name="go build defer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build requiredVersion.go">
+    <configuration name="go build goEnv.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/07Defer/defer.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/09Go environment/goEnv.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build justPanic.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/08Panic &amp; Recover/justPanic.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -72,37 +83,29 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build mapSplit.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build panicRecover.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/05Maps&amp;Slices/mapSplit.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/08Panic &amp; Recover/panicRecover.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build moreUnsafe.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build requiredVersion.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/Safe &amp; Unsafe Code/moreUnsafe.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build unsafe.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/Safe &amp; Unsafe Code/unsafe.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/09Go environment/requiredVersion.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build requiredVersion.go" />
+        <item itemvalue="Go Build.go build goEnv.go" />
+        <item itemvalue="Go Build.go build justPanic.go" />
+        <item itemvalue="Go Build.go build panicRecover.go" />
         <item itemvalue="Go Build.go build logDefer.go" />
-        <item itemvalue="Go Build.go build defer.go" />
-        <item itemvalue="Go Build.go build moreUnsafe.go" />
-        <item itemvalue="Go Build.go build unsafe.go" />
-        <item itemvalue="Go Build.go build mapSplit.go" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +132,7 @@
     <MESSAGE value="0.2.2" />
     <MESSAGE value="0.2.3" />
     <MESSAGE value="0.2.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.2.4" />
+    <MESSAGE value="0.2.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.2.5" />
   </component>
 </project>

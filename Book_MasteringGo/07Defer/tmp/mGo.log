@@ -24,3 +24,29 @@ logDefer2021/01/17 10:24:13 3
 logDefer2021/01/17 10:24:13 2
 logDefer2021/01/17 10:24:13 1
 logDefer2021/01/17 10:24:13 -- FUNCTION two ---
+logDefer2021/01/17 10:33:17 Hello there!
+logDefer2021/01/17 10:33:18 Another log entry!
+logDefer2021/01/17 10:33:18 -- FUNCTION one ---
+logDefer2021/01/17 10:33:18 0
+logDefer2021/01/17 10:33:18 1
+logDefer2021/01/17 10:33:18 2
+logDefer2021/01/17 10:33:18 3
+logDefer2021/01/17 10:33:18 4
+logDefer2021/01/17 10:33:18 5
+logDefer2021/01/17 10:33:18 6
+logDefer2021/01/17 10:33:18 7
+logDefer2021/01/17 10:33:18 8
+logDefer2021/01/17 10:33:18 9
+logDefer2021/01/17 10:33:18 -- FUNCTION one ---
+logDefer2021/01/17 10:33:18 -- FUNCTION two ---
+logDefer2021/01/17 10:33:18 10
+logDefer2021/01/17 10:33:18 9
+logDefer2021/01/17 10:33:18 8
+logDefer2021/01/17 10:33:18 7
+logDefer2021/01/17 10:33:18 6
+logDefer2021/01/17 10:33:18 5
+logDefer2021/01/17 10:33:18 4
+logDefer2021/01/17 10:33:18 3
+logDefer2021/01/17 10:33:18 2
+logDefer2021/01/17 10:33:18 1
+logDefer2021/01/17 10:33:18 -- FUNCTION two ---

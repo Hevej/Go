@@ -1,0 +1,10 @@
+Para compilar Go en un WA:
+1. Me ubico en la carpeta desde el PowerShell
+2. Se cambia el Go OS y el Go ARCH:
+set GOOS=js
+set GOARCH=wasm
+3. Se compila todo en un nuevo archivo con la instrucción go build
+go build -o main.wasm toWasm.go
+4.Despues, se ejecuta el siguiente comando:
+cp "$(go env GOROOT)/misc/wasm/wasm_exec.js"
+5. ???? Aun no lo hago funcionar
