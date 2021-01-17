@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.2.5">
+    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.2.6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/07Defer/tmp/mGo.log" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/07Defer/tmp/mGo.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/010WebAssembly/Inst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/Inst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/010WebAssembly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/010WebAssembly/main.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/main.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/010WebAssembly/toWasm.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/toWasm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/010WebAssembly/wasm_exec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/wasm_exec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/cla.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/01ReadingSIO/cla.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/stdIN.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/01ReadingSIO/stdIN.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/stdOUT.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/01ReadingSIO/stdOUT.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/02Errors/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/02Errors/errors.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/02Errors/newError.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/02Errors/newError.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/03Logs/log.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/03Logs/log.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/03Logs/logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/03Logs/logs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/04Docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/04Docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/04Docker/HW.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/04Docker/HW.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/04Docker/HW.o" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/04Docker/HW.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/05Maps&amp;Slices/mapNoStar.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/05Maps&amp;Slices/mapNoStar.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/05Maps&amp;Slices/mapSplit.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/05Maps&amp;Slices/mapSplit.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/05Maps&amp;Slices/mapStar.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/05Maps&amp;Slices/mapStar.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/05Maps&amp;Slices/sliceGC.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/05Maps&amp;Slices/sliceGC.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/06Safe &amp; Unsafe Code/moreUnsafe.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/06Safe &amp; Unsafe Code/moreUnsafe.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/06Safe &amp; Unsafe Code/unsafe.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/06Safe &amp; Unsafe Code/unsafe.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/07Defer/defer.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/07Defer/defer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/07Defer/logDefer.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/07Defer/logDefer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/07Defer/tmp/mGo.log" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/07Defer/tmp/mGo.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/08Panic &amp; Recover/justPanic.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/08Panic &amp; Recover/justPanic.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/08Panic &amp; Recover/panicRecover.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/08Panic &amp; Recover/panicRecover.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/09Go environment/goEnv.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/09Go environment/goEnv.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/09Go environment/requiredVersion.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/09Go environment/requiredVersion.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Go File" />
-        <option value="Go Application" />
         <option value="HTML File" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -23,8 +50,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/stdOUT.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/01ReadingSIO/stdOUT.go" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1mJTs1fxm5UV25EXM3s25TF9QSd" />
   <component name="ProjectLevelVcsManager">
@@ -53,12 +88,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Book_MasteringGo\Understanding Go internals" />
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\02Structs&amp;Interfaces\01Struct2" />
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01Functions\Ejercicios\04OddGenerator" />
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01ControlStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build requiredVersion.go">
+  <component name="RunManager" selected="Go Build.go build usingArrays.go">
     <configuration name="go build goEnv.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -67,27 +103,19 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build justPanic.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build loops.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/08Panic &amp; Recover/justPanic.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/02 Loops/loops.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build logDefer.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build numbers.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/07Defer/logDefer.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build panicRecover.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/08Panic &amp; Recover/panicRecover.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/01 Numbers/numbers.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -99,13 +127,21 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build usingArrays.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/02 Loops/usingArrays.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build usingArrays.go" />
+        <item itemvalue="Go Build.go build loops.go" />
+        <item itemvalue="Go Build.go build numbers.go" />
         <item itemvalue="Go Build.go build requiredVersion.go" />
         <item itemvalue="Go Build.go build goEnv.go" />
-        <item itemvalue="Go Build.go build justPanic.go" />
-        <item itemvalue="Go Build.go build panicRecover.go" />
-        <item itemvalue="Go Build.go build logDefer.go" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +169,7 @@
     <MESSAGE value="0.2.3" />
     <MESSAGE value="0.2.4" />
     <MESSAGE value="0.2.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.2.5" />
+    <MESSAGE value="0.2.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.2.6" />
   </component>
 </project>
