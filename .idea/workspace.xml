@@ -1,36 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.2.6">
+    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.3.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/010WebAssembly/Inst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/Inst.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/010WebAssembly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/010WebAssembly/main.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/main.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/010WebAssembly/toWasm.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/toWasm.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/010WebAssembly/wasm_exec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/wasm_exec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/cla.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/01ReadingSIO/cla.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/stdIN.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/01ReadingSIO/stdIN.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01ReadingSIO/stdOUT.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/01ReadingSIO/stdOUT.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/02Errors/errors.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/02Errors/errors.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/02Errors/newError.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/02Errors/newError.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/03Logs/log.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/03Logs/log.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/03Logs/logs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/03Logs/logs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/04Docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/04Docker/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/04Docker/HW.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/04Docker/HW.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/04Docker/HW.o" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/04Docker/HW.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/05Maps&amp;Slices/mapNoStar.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/05Maps&amp;Slices/mapNoStar.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/05Maps&amp;Slices/mapSplit.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/05Maps&amp;Slices/mapSplit.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/05Maps&amp;Slices/mapStar.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/05Maps&amp;Slices/mapStar.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/05Maps&amp;Slices/sliceGC.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/05Maps&amp;Slices/sliceGC.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/06Safe &amp; Unsafe Code/moreUnsafe.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/06Safe &amp; Unsafe Code/moreUnsafe.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/06Safe &amp; Unsafe Code/unsafe.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/06Safe &amp; Unsafe Code/unsafe.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/07Defer/defer.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/07Defer/defer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/07Defer/logDefer.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/07Defer/logDefer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/07Defer/tmp/mGo.log" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/07Defer/tmp/mGo.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/08Panic &amp; Recover/justPanic.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/08Panic &amp; Recover/justPanic.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/08Panic &amp; Recover/panicRecover.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/08Panic &amp; Recover/panicRecover.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/09Go environment/goEnv.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/09Go environment/goEnv.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/09Go environment/requiredVersion.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/09Go environment/requiredVersion.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/02 Loops/usingArrays.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/02 Loops/usingArrays.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,54 +68,54 @@
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01ControlStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build usingArrays.go">
-    <configuration name="go build goEnv.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build constants.go">
+    <configuration name="go build appendArrayToSlice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/09Go environment/goEnv.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/03 Slices/appendArrayToSlice.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build loops.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build constants.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/02 Loops/loops.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/05 Constants/constants.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build numbers.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build slices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/01 Numbers/numbers.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/03 Slices/slices.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build requiredVersion.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build sortSlice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/09Go environment/requiredVersion.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/03 Slices/sortSlice.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build usingArrays.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build usingMaps.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/02 Loops/usingArrays.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/04 Maps/usingMaps.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build usingArrays.go" />
-        <item itemvalue="Go Build.go build loops.go" />
-        <item itemvalue="Go Build.go build numbers.go" />
-        <item itemvalue="Go Build.go build requiredVersion.go" />
-        <item itemvalue="Go Build.go build goEnv.go" />
+        <item itemvalue="Go Build.go build constants.go" />
+        <item itemvalue="Go Build.go build usingMaps.go" />
+        <item itemvalue="Go Build.go build appendArrayToSlice.go" />
+        <item itemvalue="Go Build.go build sortSlice.go" />
+        <item itemvalue="Go Build.go build slices.go" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +144,7 @@
     <MESSAGE value="0.2.4" />
     <MESSAGE value="0.2.5" />
     <MESSAGE value="0.2.6" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.2.6" />
+    <MESSAGE value="0.3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.3.1" />
   </component>
 </project>

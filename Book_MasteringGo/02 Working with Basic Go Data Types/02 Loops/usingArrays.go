@@ -18,7 +18,21 @@ func main() {
 			for k := 0; k < len(m); k++ {
 				fmt.Print(m[k], " ")
 			}
+			fmt.Print(",")
 		}
 		fmt.Println()
 	}
+
+	fmt.Println()
+
+	for _, v := range threeD {
+		for _, m := range v {
+			for _, s := range m {
+				fmt.Print(s, " ")
+			}
+			fmt.Print(",")
+		}
+		fmt.Println()
+	}
+
 }
