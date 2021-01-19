@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.3.1">
+    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.3.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/02 Loops/usingArrays.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/02 Loops/usingArrays.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_GO_O'Reilly/Prueba/main.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,7 @@
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01ControlStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build constants.go">
+  <component name="RunManager" selected="Go Build.go build usingTime.go">
     <configuration name="go build appendArrayToSlice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -85,19 +84,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build slices.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build pointers.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/03 Slices/slices.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build sortSlice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/03 Slices/sortSlice.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/06 Pointers/pointers.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -109,13 +100,21 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build usingTime.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/07 Times and dates/usingTime.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build usingTime.go" />
+        <item itemvalue="Go Build.go build pointers.go" />
         <item itemvalue="Go Build.go build constants.go" />
         <item itemvalue="Go Build.go build usingMaps.go" />
         <item itemvalue="Go Build.go build appendArrayToSlice.go" />
-        <item itemvalue="Go Build.go build sortSlice.go" />
-        <item itemvalue="Go Build.go build slices.go" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +144,7 @@
     <MESSAGE value="0.2.5" />
     <MESSAGE value="0.2.6" />
     <MESSAGE value="0.3.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.3.1" />
+    <MESSAGE value="0.3.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.3.2" />
   </component>
 </project>

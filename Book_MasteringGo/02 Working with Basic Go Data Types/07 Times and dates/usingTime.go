@@ -1,0 +1,28 @@
+package main
+
+import (
+	"fmt"
+	"time"
+)
+
+func main() {
+	fmt.Println("Epoch time:", time.Now().Unix())
+	t := time.Now()
+	fmt.Println(t)
+	fmt.Println(t.Format(time.RFC3339))
+	fmt.Println(t.Weekday(), t.Day(), t.Month(), t.Year())
+
+	//Delay
+	//Time second constant
+	time.Sleep(time.Second)
+	t1 := time.Now()
+	//Sub() allows me to find the time difference between two times
+	fmt.Println("Time difference:", t1.Sub(t))
+
+	formatT := t.Format("01 January 2006")
+	fmt.Println(formatT)
+	// loc, _ := time.LoadLocation("Local")
+	loc, _ := time.LoadLocation("America/Bogota")
+	colombiaTime := t.In(loc)
+	fmt.Println("Colombia:", colombiaTime.Format(time.RFC3339))
+}
