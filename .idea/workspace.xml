@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.3.2">
+    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.3.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_GO_O'Reilly/Prueba/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/Inst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/10WebAssembly/Inst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/10WebAssembly/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/main.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/10WebAssembly/main.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/toWasm.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/10WebAssembly/toWasm.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/010WebAssembly/wasm_exec.js" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/10WebAssembly/wasm_exec.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,20 +71,20 @@
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01ControlStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build usingTime.go">
-    <configuration name="go build appendArrayToSlice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build execTime.go">
+    <configuration name="go build execTime.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/03 Slices/appendArrayToSlice.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/08 Execution Time/execTime.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build constants.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build parseTime.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/05 Constants/constants.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/07 Times and dates/parseTime.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -92,11 +96,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build usingMaps.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build timeDate.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/04 Maps/usingMaps.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/02 Working with Basic Go Data Types/07 Times and dates/timeDate.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -110,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build execTime.go" />
+        <item itemvalue="Go Build.go build timeDate.go" />
+        <item itemvalue="Go Build.go build parseTime.go" />
         <item itemvalue="Go Build.go build usingTime.go" />
         <item itemvalue="Go Build.go build pointers.go" />
-        <item itemvalue="Go Build.go build constants.go" />
-        <item itemvalue="Go Build.go build usingMaps.go" />
-        <item itemvalue="Go Build.go build appendArrayToSlice.go" />
       </list>
     </recent_temporary>
   </component>
@@ -145,6 +149,7 @@
     <MESSAGE value="0.2.6" />
     <MESSAGE value="0.3.1" />
     <MESSAGE value="0.3.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.3.2" />
+    <MESSAGE value="0.3.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.3.3" />
   </component>
 </project>
