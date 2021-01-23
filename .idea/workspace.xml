@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.4.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/03 Regular Expressions/changeDT.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/03 Regular Expressions/changeDT.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/03 Regular Expressions/logEntries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/03 Regular Expressions/logEntries.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,7 @@
         <option value="Go File" />
         <option value="HTML File" />
         <option value="Go Application" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
@@ -72,20 +71,12 @@
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01ControlStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build switch.go">
-    <configuration name="go build runes.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build mUJSON.go">
+    <configuration name="go build mUJSON.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/05 Strings/runes.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build strings.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/05 Strings/strings.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/07 JSON/mUJSON.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -113,13 +104,21 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build writeJSON.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/07 JSON/writeJSON.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build mUJSON.go" />
+        <item itemvalue="Go Build.go build writeJSON.go" />
         <item itemvalue="Go Build.go build switch.go" />
         <item itemvalue="Go Build.go build useStrings.go" />
         <item itemvalue="Go Build.go build unicode.go" />
-        <item itemvalue="Go Build.go build runes.go" />
-        <item itemvalue="Go Build.go build strings.go" />
       </list>
     </recent_temporary>
   </component>
