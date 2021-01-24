@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.4.2">
+    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.4.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/07 JSON/parsingJSON.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/07 JSON/parsingJSON.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +15,8 @@
       <list>
         <option value="Go File" />
         <option value="HTML File" />
-        <option value="Go Application" />
         <option value="tsconfig.json" />
+        <option value="Go Application" />
       </list>
     </option>
   </component>
@@ -71,7 +72,15 @@
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01ControlStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build mUJSON.go">
+  <component name="RunManager" selected="Go Build.go build makingHash.go">
+    <configuration name="go build binTree.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/01 Binary Tree/binTree.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build mUJSON.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -80,45 +89,37 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build switch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build makingHash.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/06 Switch/switch.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/02 Hash Tables/makingHash.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build unicode.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build runes.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/05 Strings/unicode.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/05 Strings/runes.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build useStrings.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build sd.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/05 Strings/useStrings.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build writeJSON.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/07 JSON/writeJSON.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/01 Binary Tree/sd.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build makingHash.go" />
+        <item itemvalue="Go Build.go build binTree.go" />
+        <item itemvalue="Go Build.go build runes.go" />
+        <item itemvalue="Go Build.go build sd.go" />
         <item itemvalue="Go Build.go build mUJSON.go" />
-        <item itemvalue="Go Build.go build writeJSON.go" />
-        <item itemvalue="Go Build.go build switch.go" />
-        <item itemvalue="Go Build.go build useStrings.go" />
-        <item itemvalue="Go Build.go build unicode.go" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +153,7 @@
     <MESSAGE value="0.3.3" />
     <MESSAGE value="0.4.1" />
     <MESSAGE value="0.4.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.4.2" />
+    <MESSAGE value="0.4.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.4.3" />
   </component>
 </project>
