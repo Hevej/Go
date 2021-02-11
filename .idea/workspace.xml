@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.4.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/07 JSON/parsingJSON.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/07 JSON/parsingJSON.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/02 Hash Tables/makingHash.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/02 Hash Tables/YT/makingHash.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +32,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Book_MasteringGo/01 Understanding Go internals/01ReadingSIO/stdOUT.go" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -51,7 +54,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/04 IPv4" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,13 +70,30 @@
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Book_MasteringGo\03 Uses of Composite Types\03 Regular Expressions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Book_MasteringGo\04 Enhace Go Code with Data Structures\02 Hash Tables\YT" />
+      <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Book_MasteringGo\04 Enhace Go Code with Data Structures\02 Hash Tables" />
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Book_MasteringGo\Understanding Go internals" />
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\02Structs&amp;Interfaces\01Struct2" />
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01Functions\Ejercicios\04OddGenerator" />
-      <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01ControlStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build makingHash.go">
+  <component name="RunManager" selected="Go Build.go build Interes.go">
+    <configuration name="go build Interes.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Universidad/Ingeco/Interes/Interes.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Ventana.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Gio/Ventana.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build binTree.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -81,11 +102,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build mUJSON.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build hashTable.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/07 JSON/mUJSON.go" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/02 Hash Tables/hashTable.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -97,29 +118,13 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build runes.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/05 Strings/runes.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build sd.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/01 Binary Tree/sd.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Interes.go" />
+        <item itemvalue="Go Build.go build Ventana.go" />
+        <item itemvalue="Go Build.go build hashTable.go" />
         <item itemvalue="Go Build.go build makingHash.go" />
         <item itemvalue="Go Build.go build binTree.go" />
-        <item itemvalue="Go Build.go build runes.go" />
-        <item itemvalue="Go Build.go build sd.go" />
-        <item itemvalue="Go Build.go build mUJSON.go" />
       </list>
     </recent_temporary>
   </component>
