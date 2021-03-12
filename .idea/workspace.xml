@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.4.3">
+    <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.4.4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/02 Hash Tables/makingHash.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/02 Hash Tables/YT/makingHash.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/02 Hash Tables/hashTable.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/02 Hash Tables/hashTable.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../Go" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -77,7 +77,7 @@
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01Functions\Ejercicios\04OddGenerator" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build Interes.go">
+  <component name="RunManager" selected="Go Build.go build hashTable.go">
     <configuration name="go build Interes.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -120,9 +120,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build hashTable.go" />
         <item itemvalue="Go Build.go build Interes.go" />
         <item itemvalue="Go Build.go build Ventana.go" />
-        <item itemvalue="Go Build.go build hashTable.go" />
         <item itemvalue="Go Build.go build makingHash.go" />
         <item itemvalue="Go Build.go build binTree.go" />
       </list>
@@ -159,6 +159,7 @@
     <MESSAGE value="0.4.1" />
     <MESSAGE value="0.4.2" />
     <MESSAGE value="0.4.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.4.3" />
+    <MESSAGE value="0.4.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.4.4" />
   </component>
 </project>
