@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- Aca agregamos el css -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" media="all" href="../css/calculadora.css">
+    <title>Calculadora</title>
+</head>
+
+<body>
+    <div class="section_hist" id"section_hist">
+        <div class="history_details">
+            <div class="history_details_con">
+                <li class="all_li"><label class="history_items" id="hi_a"></label></li>
+                <li class="all_li"><label class="history_items" id="hi_b"></label></li>
+                <li class="all_li"><label class="history_items" id="hi_c"></label></li>
+                <li class="all_li"><label class="history_items" id="hi_d"></label></li>
+                <li class="all_li"><label class="history_items" id="hi_e"></label></li>
+                <li class="all_li"><label class="history_items" id="hi_f"></label></li>
+                <li class="all_li"><label class="history_items" id="hi_g"></label></li>
+                <li class="all_li"><label class="history_items" id="hi_h"></label></li>
+                <li class="all_li"><label class="history_items" id="hi_i"></label></li>
+                <li class="all_li"><label class="history_items" id="hi_j"></label></li>
+            </div>
+            <button class="history_clr_btn" id="history_clr_btn"></button>
+        </div>
+        <div class="history_empty" id="history_empty"></div>
+    </div>
+    <div class="section_calc">
+        <div class="top_container">
+            <div class="top_btns_group">
+                <button class="history_btn" id="history_btn">History</button>
+            </div>
+            <div class="result_container">
+                <label class="result_label" id="result_label">9999 + 9999</label>
+            </div>
+        </div>
+        <div class="bottom_container">
+            <div class="left_container">
+                <!-- row a -->
+                <div class = "left_row">
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_7">7</button>
+                    </div>
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_8">8</button>
+                    </div>
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_9">9</button>
+                    </div>  
+                </div>
+                <!-- row b -->
+                <div class = "left_row">
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_4">4</button>
+                    </div>
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_5">5</button>
+                    </div>
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_6">6</button>
+                    </div>
+                </div>
+                <!-- row c -->
+                <div class = "left_row">
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_1">1</button>
+                    </div>
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_2">2</button>
+                    </div>
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_3">3</button>
+                    </div>
+                </div>
+                <!-- row d -->
+                <div class = "left_row">
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_dot">.</button>
+                    </div>
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_0">0</button>
+                    </div>
+                    <div class="left_row_item">
+                        <button class="left_btns" id="btn_equal">=</button>
+                    </div>
+                </div>
+            </div>
+            <div class="right_container">
+                <div class="right_row_item">
+                    <button class="right_btns" id="btn_del">DEL</button>
+                </div>
+                <div class="right_row_item">
+                    <button class="right_btns" id="btn_div">/</button>
+                </div>
+                <div class="right_row_item">
+                    <button class="right_btns" id="btn_multi">*</button>
+                </div>
+                <div class="right_row_item">
+                    <button class="right_btns" id="btn_subst">-</button>
+                </div>
+                <div class="right_row_item">
+                    <button class="right_btns" id="btn_addit">+</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="application/javascript" src="../js/calculadora.js"></script>
+</body>
+
+</html>
