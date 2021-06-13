@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95eda4de-d894-4b36-a633-d87e6df837c6" name="Default Changelist" comment="0.4.4">
-      <change afterPath="$PROJECT_DIR$/CodeWars/DataTypes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWars/FizzBuzz.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodeWars/FunWithAnagrams.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/05 Strings/runes.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/03 Uses of Composite Types/05 Strings/runes.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/duplicateEncoder.go" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/duplicateEncoder.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/04 Queue/queue.go" beforeDir="false" afterPath="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/04 Queue/queue.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +77,7 @@
       <recent name="C:\Users\lfpin\OneDrive\Documentos\GitHub\Go\Ejercicios\01Functions\Ejercicios\04OddGenerator" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build hashTable.go">
+  <component name="RunManager" selected="Go Build.go build queue.go">
     <configuration name="go build Interes.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -95,14 +91,6 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/Gio/Ventana.go" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build binTree.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Go" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/01 Binary Tree/binTree.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -122,13 +110,21 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build queue.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Book_MasteringGo/04 Enhace Go Code with Data Structures/04 Queue/queue.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build queue.go" />
         <item itemvalue="Go Build.go build hashTable.go" />
         <item itemvalue="Go Build.go build Interes.go" />
         <item itemvalue="Go Build.go build Ventana.go" />
         <item itemvalue="Go Build.go build makingHash.go" />
-        <item itemvalue="Go Build.go build binTree.go" />
       </list>
     </recent_temporary>
   </component>
